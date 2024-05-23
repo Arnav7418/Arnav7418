@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Arnav7418](https://github.com/Arnav7418)
+- 👨‍💻 All of my projects are available at [https://github.com/Arnav7418/Projects](https://github.com/Arnav7418/Projects)
 
 - 💬 Ask me about **machine learning , android development , wordpress , Search engine optimization**
 
