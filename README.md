@@ -26,10 +26,7 @@
 <a href="https://www.leetcode.com/arnav7418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arnav7418" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arnavsingh7418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arnavsingh7418" height="30" width="40" /></a>
 </p>
-<p align="center">
-  <img src="C:\Users\ARNAV\Pictures\Screenshots\codechefRating.png" alt="Image 1" width="300" height="200"/>
-  <img src="https://path/to/your/image2.jpg" alt="Image 2" width="300" height="200"/>
-</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  
