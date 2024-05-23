@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm ARNAV</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
-<p align="center">
-  <img src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" alt="Image 1" width="300" height="200"/>
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Image 1" width="300" height="200"/>
 
 </p>
 
@@ -60,4 +60,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav7418&show_icons=true&locale=en&layout=compact" alt="arnav7418" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav7418&show_icons=true&locale=en&layout=compact" alt="arnav7418" /></p>
