@@ -2,7 +2,7 @@
 <h3 align="center">A passionate android developer from India</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Image 1" width="300" height="200"/>
+  <img src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" alt="Image 1" width="300" height="200"/>
 
 </p>
 
