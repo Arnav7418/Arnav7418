@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arnav.singh8084@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18-3P8ts1JQJu_wWpNrj4tZqooCA8DNpk/view?usp=drive_link](https://drive.google.com/file/d/18-3P8ts1JQJu_wWpNrj4tZqooCA8DNpk/view?usp=drive_link)
+- 📄 Check out my resume [https://drive.google.com/file/d/18-3P8ts1JQJu_wWpNrj4tZqooCA8DNpk/view?usp=drive_link](https://drive.google.com/file/d/18-3P8ts1JQJu_wWpNrj4tZqooCA8DNpk/view?usp=drive_link)
 
 - ⚡ Fun fact **The computer was born to solve problems that did not exist before**
 
