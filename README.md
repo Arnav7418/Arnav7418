@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm ARNAV</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Image 1" width="300" height="200"/>
 
-</p>
+  <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Image 1" width="300" height="200"/>
+
 
 - 🌱 I’m currently learning **Android Development**
 
