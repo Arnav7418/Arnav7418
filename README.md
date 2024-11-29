@@ -5,7 +5,7 @@
   <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Image 1" width="300" height="200"/>
 
 
-- 🌱 I’m currently an **Android Developer**
+- 🌱 I’m currently an **Android Developer (Intern) at Clearmind AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arnav7418/Projects](https://github.com/Arnav7418/Projects)
 
